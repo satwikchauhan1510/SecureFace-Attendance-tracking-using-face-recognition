@@ -32,8 +32,7 @@ The attendance have been marked in two ways :
 * Admin have the access to mark the attendance
 * Students can mark their attendance through student portal 
 * If any false attendance marked by the student Admin have the access to change the attendance report
-Here is the attendance sample :
-![Add Screenshot](https://firebasestorage.googleapis.com/v0/b/face-recognition-system-d0666.appspot.com/o/sample.png?alt=media&token=57e19b6e-27ad-4bd2-a7a4-349f316f3059)
+* 
 ## Technologies,FrameWork & Algorithm Used
 * Python <img align="center" width="50px" src="https://www.python.org/static/opengraph-icon-200x200.png"/>
 * MySQL Database <img align="center" width="50px" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"/>
