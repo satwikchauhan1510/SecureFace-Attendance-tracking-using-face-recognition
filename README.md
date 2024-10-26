@@ -41,7 +41,7 @@ The attendance have been marked in two ways :
 * Harcassade classifier model 
 * LBPH Algorithm  
 ## Challenges Faced
-The 3 week journey is amazing to tackle out the problem and building a prototype. Some of the challenges that I faced during the period are:
+The 6 weeks journey is amazing to tackle out the problem and building a prototype. Some of the challenges that I faced during the period are:
 * Setting up the enviornment variable is a great challenge that give me exposure to play with path accessibility
 * Tkinter GUI is goot to design a desktop application but tooks a time to link one page to another
 * Database connectivity is a great challenge for me it took over 1 day to connect my application to MySQL connector
