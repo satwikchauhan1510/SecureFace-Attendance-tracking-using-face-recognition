@@ -1,4 +1,3 @@
-# Under Microsoft Intern Engage <img align="center" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVdPTK0R8Xl32-L04RApWEIkv_FAzISrHDOFNqrHQ65axV2JhhGWcppvPx9xM-YRlNLQ&usqp=CAU" />
 ## Attendance_tracking_application 
 ### Application Objective
 The manual Attendance System is ineffective in today's hectic time with a huge population. Tracking down one's attendance on a one-on-one basis as adapted by the majority of universities and educational institutions is quite a time consuming and not accurate. The pen-paper method of tracking attendance is outdated and we need an upgrade. Advantages of an automatic face-recognition attendance system:
