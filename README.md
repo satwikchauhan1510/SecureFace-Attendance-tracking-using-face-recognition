@@ -14,7 +14,7 @@ This is a desktop application which works on __Face Recognition Technology.__ Th
 ***Admin Window***
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/face-recognition-system-d0666.appspot.com/o/admin_window.png?alt=media&token=ffd2b638-48ef-41c9-8d42-c6fcf785b181)
 ***Student Window***
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/face-recognition-system-d0666.appspot.com/o/student_window.png?alt=media&token=3e62fbc2-37bd-494f-b479-9486f856adc3)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/face-recognition-system-d0666.appspot.com/o/student_window.png?alt=media&token=e62fbc2-37bd-494f-b479-9486f856adc3)
 ***Student Registration Window***
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/face-recognition-system-d0666.appspot.com/o/register.png?alt=media&token=e71aebfe-ed80-4718-b0f7-4c9be2f1fcb9)
 ***Training the Dataset Window***
@@ -106,7 +106,7 @@ where he/she can mark the attendance use the chatbot and see the attendance repo
 * **databse.py** contains student database
 * **attendance_db.py** contains the attendance report database
 ## Future Scope
-Due to 3 weeks of time I am able to implement only major features of my application
+Due to 6 weeks of time I am able to implement only major features of my application
 some more features such as:
 * Face recognition Login authentication
 * Personal Dashboard
